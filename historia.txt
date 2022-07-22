@@ -1,3 +1,4 @@
 archivo de prueba
 
-porquemya casi aprendemos a usar git 
+porque ya casi aprendemos a usar git 
+y conseguiremos trabajo 
