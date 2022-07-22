@@ -2,3 +2,5 @@ archivo de prueba
 
 porque ya casi aprendemos a usar git 
 y conseguiremos trabajo 
+
+y hablaremos de historia
